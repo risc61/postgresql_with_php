@@ -1,0 +1,114 @@
+
+.ortala  {   
+    padding: 20px;
+    position: fixed;
+    margin: auto;
+    width: 100%;
+    background-color: #d5d5d5;
+}
+.yasla{
+    float:left;
+    margin-left: 10px;
+}
+.solSide{
+    width: 15%;
+    border: solid 1px;
+    display: block;
+    position: relative;
+    padding: 10px;
+}
+.icerik{
+    width: 75%;
+    border: solid 1px;
+    display: block;
+    position: relative;
+    padding: 5px;
+}
+
+.solSide div{
+           background-color:#ccc ;        
+           display: block;
+           margin-top:  10px;
+           height: auto;
+           padding: 5px;
+           text-align: center;
+}
+   
+.myButon {
+	
+        background-color: #a7c942;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:12px;
+	padding:8px 20px;
+	text-decoration:none;
+	text-shadow:0px 0px 50px #283966;
+}
+.myButon:hover {
+	background-color:#476e9e;
+}
+.myButon:active {
+	position:relative;
+	top:1px;
+}
+a{
+    text-decoration: none;
+    background-color: #a7c942;
+    color:black;
+    padding:5px;
+     
+}
+
+
+
+
+
+
+
+
+#tablom{
+            border-collapse:collapse;
+            font-family: vardena,helvatica,arial,serif;
+            width: 100%;
+            text-align: center;
+          
+            
+                
+        }
+        #tablom td,#tablom th{
+            border: 1px solid #98bf31;
+            font-size: 16px;
+            padding: 18px;
+            
+        }
+        #tablom th{
+            background-color: #a7c942;
+            color: #ffffff;
+            font-size: 18px;
+            
+        }
+        .alt1{
+            background-color: #ccc;
+            color:#000000;
+            
+            
+        }
+         .alt2{
+            background-color: #ffffff;
+            color:#000000;
+            
+            
+        } label {
+            
+            display:block;
+            font-size:1em;
+            font-family: verdana;
+            font-weight: bold;
+            margin:10px 0;
+            
+        }

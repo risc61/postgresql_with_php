@@ -1,0 +1,58 @@
+.genel{
+border:1px solid #d3d3d3; 
+padding:10px;                  
+width:250px; 
+height:auto; 
+background:#eee;  
+font:12px Arial, Tahoma, Verdana;
+margin: auto;
+
+display: block;
+}
+.baslik
+{
+background:#333;  
+
+color:#fff; 
+
+padding:5px;
+
+font-weight:bold; 
+}
+
+
+
+.buton
+{
+float:left;
+
+
+margin-left: 25px; 
+
+border:1px solid #666;          
+
+padding:4px 5px;                   
+
+background:#666;      
+
+color:#fff;                      
+
+font-weight:bold;  
+text-decoration: none;
+
+}
+ label {
+            
+            display: block;
+            font-size:1em;
+            font-family: verdana;
+            font-weight: bold;
+            margin:10px 0;
+            
+        }
+        a{text-decoration: none;
+        padding: 5px;
+   
+        color:#666;   
+        float: right;
+        }

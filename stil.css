@@ -1,0 +1,167 @@
+@charset "utf-8";
+
+
+.AnaSayfa{
+background-color:#666;
+width:1100px;
+height:auto;
+border:solid;
+margin:auto;
+padding-top:20px;
+padding-bottom:20px;
+font:"Lucida Sans Unicode", "Bitstream Vera Sans", "Trebuchet Unicode MS", "Lucida Grande", Verdana, Helvetica, sans-serif;
+color: white;
+}
+
+.menuler{
+width:auto;
+height:70px;
+padding-top:20px;
+padding-bottom:20px;
+margin-bottom:50px;;
+margin: auto;
+
+}
+.elemanMenu{
+width:auto;
+float:left;
+padding:10px;
+margin-left:5px;
+
+}
+
+.OrtaKutuAlani{
+ width:1100px;
+ height:300px;
+ position: relative;
+ }
+
+.resimKutusu{
+ width:600px;
+ height:300px;
+}
+.makaleKutusu{
+   color:wheat;
+   border: 1px solid;
+   width: 800px;
+   height: auto;
+   margin: 5px;
+   padding: 5px;
+   height: auto;
+   position: relative;
+
+   
+  
+}
+.makaleKutusuResim{
+width: 150px;
+height: 200px;
+margin: 5px;
+
+
+}
+
+.makaleKutusuDetay{
+width: auto;
+height: auto;
+margin-top: 5px;
+}
+
+.makaleKutusuBaslik{
+    color:white;
+    font: verdana,sans-serif;
+    font-size: 18px; 
+    border: 1px solid;
+    font-weight: bold;
+    margin: 1px;
+    text-align: center;
+}
+
+
+.yonetimPaneli{
+ margin: auto;
+ 
+}
+.sideBar{
+ width:240px;
+ height:300px;
+ margin: 2px; 
+
+}
+.content{
+width:1100px;
+height:auto;
+overflow:auto; 
+padding-top:20px;
+padding-bottom:20px;
+margin-bottom:20px;;
+
+
+}
+.kutular{
+width:800px;
+height:auto;
+padding-top:5px;
+padding-bottom:5px;
+margin-bottom:5px;
+margin-left: 150px;
+
+    
+
+
+
+}
+
+
+.ustKisim{
+
+  height: auto;
+  width: 100px;
+  top: 20px; 
+   
+}
+
+
+
+.yanKisim{
+  height: auto;
+  top: 20px;
+  margin-left:  105px;
+ 
+  
+}
+
+.icerik{
+  border: 1px solid;
+  margin: 30px auto 0 auto;
+  width: 600px;
+  display:block;
+  
+}
+
+
+
+.buyukKutu div{
+float:left;    
+}
+
+ a{
+    color:white;
+    text-decoration: none;
+  }
+        
+        
+  .sagaYasla{
+      float: right;
+          
+  }
+  .solaYasla{
+      float:left;
+      margin: 5px;
+  }
+
+  
+        
+        
+   
+
